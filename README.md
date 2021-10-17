@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @minoopro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-minoopro/minoopro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- {
+  
+"message":"အပ်ဒိပ်လုပ်မည်လား ?\nဘာတွေအသစ် ပါလာခဲ့သလဲ?\n• design ပြောင်းလဲထား\n• animation ထည့်\n • List animation ထည့်\n• အမှားများတစ်ချို့ ပြုပြင် \n \nကျေးဇူးတင်ပါတယ်!!",
+   "title":"ဗားရှင်းအသစ် ရရှိနိုင်ပါပြီ ",
+   "version": 7
+}
